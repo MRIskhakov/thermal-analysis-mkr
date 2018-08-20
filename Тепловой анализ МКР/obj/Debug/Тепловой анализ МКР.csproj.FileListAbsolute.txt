@@ -1,0 +1,14 @@
+c:\users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\bin\Debug\Тепловой анализ МКР.exe.config
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой_анализ_МКР.Properties.Resources.resources
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.csproj.GenerateResource.Cache
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\bin\Debug\Тепловой анализ МКР.exe
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\bin\Debug\Тепловой анализ МКР.pdb
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.exe
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.pdb
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой_анализ_МКР.Form1.resources
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\bin\Debug\ThermalAnalysisDB.mdb
+C:\Users\tolst\documents\visual studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.csprojResolveAssemblyReference.cache
+C:\Users\tolst\Documents\Visual Studio 2015\Projects\Тепловой анализ МКР\Тепловой анализ МКР\obj\Debug\Тепловой_анализ_МКР.PropertiesForm.resources
+C:\Users\Fry\Desktop\Тепловой анализ МКР 45\Тепловой анализ МКР\bin\Debug\Тепловой анализ МКР.exe.config
+C:\Users\Fry\Desktop\Тепловой анализ МКР 45\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.exe
+C:\Users\Fry\Desktop\Тепловой анализ МКР 45\Тепловой анализ МКР\obj\Debug\Тепловой анализ МКР.pdb
